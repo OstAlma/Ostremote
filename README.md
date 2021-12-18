@@ -1,5 +1,5 @@
 # Ostremote
-this app for  remote divices 
+this app for  remote devices 
 
 use the code and enjoy.
 
